@@ -1,0 +1,15 @@
+E:\FreeCodeCamp\8 - C#\Projects\Proj 2 - switch and do-while\bin\Debug\net8.0\Proj 2 - switch and do-while.exe
+E:\FreeCodeCamp\8 - C#\Projects\Proj 2 - switch and do-while\bin\Debug\net8.0\Proj 2 - switch and do-while.deps.json
+E:\FreeCodeCamp\8 - C#\Projects\Proj 2 - switch and do-while\bin\Debug\net8.0\Proj 2 - switch and do-while.runtimeconfig.json
+E:\FreeCodeCamp\8 - C#\Projects\Proj 2 - switch and do-while\bin\Debug\net8.0\Proj 2 - switch and do-while.dll
+E:\FreeCodeCamp\8 - C#\Projects\Proj 2 - switch and do-while\bin\Debug\net8.0\Proj 2 - switch and do-while.pdb
+E:\FreeCodeCamp\8 - C#\Projects\Proj 2 - switch and do-while\obj\Debug\net8.0\Proj 2 - switch and do-while.GeneratedMSBuildEditorConfig.editorconfig
+E:\FreeCodeCamp\8 - C#\Projects\Proj 2 - switch and do-while\obj\Debug\net8.0\Proj 2 - switch and do-while.AssemblyInfoInputs.cache
+E:\FreeCodeCamp\8 - C#\Projects\Proj 2 - switch and do-while\obj\Debug\net8.0\Proj 2 - switch and do-while.AssemblyInfo.cs
+E:\FreeCodeCamp\8 - C#\Projects\Proj 2 - switch and do-while\obj\Debug\net8.0\Proj 2 - switch and do-while.csproj.CoreCompileInputs.cache
+E:\FreeCodeCamp\8 - C#\Projects\Proj 2 - switch and do-while\obj\Debug\net8.0\Proj 2 - switch and do-while.sourcelink.json
+E:\FreeCodeCamp\8 - C#\Projects\Proj 2 - switch and do-while\obj\Debug\net8.0\Proj 2 - switch and do-while.dll
+E:\FreeCodeCamp\8 - C#\Projects\Proj 2 - switch and do-while\obj\Debug\net8.0\refint\Proj 2 - switch and do-while.dll
+E:\FreeCodeCamp\8 - C#\Projects\Proj 2 - switch and do-while\obj\Debug\net8.0\Proj 2 - switch and do-while.pdb
+E:\FreeCodeCamp\8 - C#\Projects\Proj 2 - switch and do-while\obj\Debug\net8.0\Proj 2 - switch and do-while.genruntimeconfig.cache
+E:\FreeCodeCamp\8 - C#\Projects\Proj 2 - switch and do-while\obj\Debug\net8.0\ref\Proj 2 - switch and do-while.dll
