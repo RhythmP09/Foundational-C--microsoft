@@ -11,4 +11,6 @@ Proj 1 - fixing array structures using foreach & if-elseif-else
 
 Proj 2 - branching & looping using switch cases and do-while
 
+Project 3 - data handling, storage, and manipulation
+
 to be continued....
