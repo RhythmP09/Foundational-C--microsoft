@@ -1,0 +1,15 @@
+E:\FreeCodeCamp\8 - C#\Projects\Proj 3 - variable data manipulation\bin\Debug\net8.0\Proj 3 - variable data manipulation.exe
+E:\FreeCodeCamp\8 - C#\Projects\Proj 3 - variable data manipulation\bin\Debug\net8.0\Proj 3 - variable data manipulation.deps.json
+E:\FreeCodeCamp\8 - C#\Projects\Proj 3 - variable data manipulation\bin\Debug\net8.0\Proj 3 - variable data manipulation.runtimeconfig.json
+E:\FreeCodeCamp\8 - C#\Projects\Proj 3 - variable data manipulation\bin\Debug\net8.0\Proj 3 - variable data manipulation.dll
+E:\FreeCodeCamp\8 - C#\Projects\Proj 3 - variable data manipulation\bin\Debug\net8.0\Proj 3 - variable data manipulation.pdb
+E:\FreeCodeCamp\8 - C#\Projects\Proj 3 - variable data manipulation\obj\Debug\net8.0\Proj 3 - variable data manipulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\FreeCodeCamp\8 - C#\Projects\Proj 3 - variable data manipulation\obj\Debug\net8.0\Proj 3 - variable data manipulation.AssemblyInfoInputs.cache
+E:\FreeCodeCamp\8 - C#\Projects\Proj 3 - variable data manipulation\obj\Debug\net8.0\Proj 3 - variable data manipulation.AssemblyInfo.cs
+E:\FreeCodeCamp\8 - C#\Projects\Proj 3 - variable data manipulation\obj\Debug\net8.0\Proj 3 - variable data manipulation.csproj.CoreCompileInputs.cache
+E:\FreeCodeCamp\8 - C#\Projects\Proj 3 - variable data manipulation\obj\Debug\net8.0\Proj 3 - variable data manipulation.sourcelink.json
+E:\FreeCodeCamp\8 - C#\Projects\Proj 3 - variable data manipulation\obj\Debug\net8.0\Proj 3 - variable data manipulation.dll
+E:\FreeCodeCamp\8 - C#\Projects\Proj 3 - variable data manipulation\obj\Debug\net8.0\refint\Proj 3 - variable data manipulation.dll
+E:\FreeCodeCamp\8 - C#\Projects\Proj 3 - variable data manipulation\obj\Debug\net8.0\Proj 3 - variable data manipulation.pdb
+E:\FreeCodeCamp\8 - C#\Projects\Proj 3 - variable data manipulation\obj\Debug\net8.0\Proj 3 - variable data manipulation.genruntimeconfig.cache
+E:\FreeCodeCamp\8 - C#\Projects\Proj 3 - variable data manipulation\obj\Debug\net8.0\ref\Proj 3 - variable data manipulation.dll
