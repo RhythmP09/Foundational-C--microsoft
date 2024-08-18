@@ -1,0 +1,14 @@
+E:\FreeCodeCamp\8 - C#\CsharpProjects\Proj 1 - foreach and if-elseif-else structures\bin\Debug\net8.0\Proj 1 - foreach and if-elseif-else structures.exe
+E:\FreeCodeCamp\8 - C#\CsharpProjects\Proj 1 - foreach and if-elseif-else structures\bin\Debug\net8.0\Proj 1 - foreach and if-elseif-else structures.deps.json
+E:\FreeCodeCamp\8 - C#\CsharpProjects\Proj 1 - foreach and if-elseif-else structures\bin\Debug\net8.0\Proj 1 - foreach and if-elseif-else structures.runtimeconfig.json
+E:\FreeCodeCamp\8 - C#\CsharpProjects\Proj 1 - foreach and if-elseif-else structures\bin\Debug\net8.0\Proj 1 - foreach and if-elseif-else structures.dll
+E:\FreeCodeCamp\8 - C#\CsharpProjects\Proj 1 - foreach and if-elseif-else structures\bin\Debug\net8.0\Proj 1 - foreach and if-elseif-else structures.pdb
+E:\FreeCodeCamp\8 - C#\CsharpProjects\Proj 1 - foreach and if-elseif-else structures\obj\Debug\net8.0\Proj 1 - foreach and if-elseif-else structures.GeneratedMSBuildEditorConfig.editorconfig
+E:\FreeCodeCamp\8 - C#\CsharpProjects\Proj 1 - foreach and if-elseif-else structures\obj\Debug\net8.0\Proj 1 - foreach and if-elseif-else structures.AssemblyInfoInputs.cache
+E:\FreeCodeCamp\8 - C#\CsharpProjects\Proj 1 - foreach and if-elseif-else structures\obj\Debug\net8.0\Proj 1 - foreach and if-elseif-else structures.AssemblyInfo.cs
+E:\FreeCodeCamp\8 - C#\CsharpProjects\Proj 1 - foreach and if-elseif-else structures\obj\Debug\net8.0\Proj 1 - foreach and if-elseif-else structures.csproj.CoreCompileInputs.cache
+E:\FreeCodeCamp\8 - C#\CsharpProjects\Proj 1 - foreach and if-elseif-else structures\obj\Debug\net8.0\Proj 1 - foreach and if-elseif-else structures.dll
+E:\FreeCodeCamp\8 - C#\CsharpProjects\Proj 1 - foreach and if-elseif-else structures\obj\Debug\net8.0\refint\Proj 1 - foreach and if-elseif-else structures.dll
+E:\FreeCodeCamp\8 - C#\CsharpProjects\Proj 1 - foreach and if-elseif-else structures\obj\Debug\net8.0\Proj 1 - foreach and if-elseif-else structures.pdb
+E:\FreeCodeCamp\8 - C#\CsharpProjects\Proj 1 - foreach and if-elseif-else structures\obj\Debug\net8.0\Proj 1 - foreach and if-elseif-else structures.genruntimeconfig.cache
+E:\FreeCodeCamp\8 - C#\CsharpProjects\Proj 1 - foreach and if-elseif-else structures\obj\Debug\net8.0\ref\Proj 1 - foreach and if-elseif-else structures.dll
