@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Proj 4 - methods mini-game/1.0.0": {
+        "runtime": {
+          "Proj 4 - methods mini-game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proj 4 - methods mini-game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

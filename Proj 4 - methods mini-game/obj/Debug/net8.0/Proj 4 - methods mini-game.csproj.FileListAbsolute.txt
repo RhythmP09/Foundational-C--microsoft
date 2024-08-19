@@ -1,0 +1,15 @@
+E:\FreeCodeCamp\8 - C#\Projects\Proj 4 - methods mini-game\obj\Debug\net8.0\Proj 4 - methods mini-game.GeneratedMSBuildEditorConfig.editorconfig
+E:\FreeCodeCamp\8 - C#\Projects\Proj 4 - methods mini-game\obj\Debug\net8.0\Proj 4 - methods mini-game.AssemblyInfoInputs.cache
+E:\FreeCodeCamp\8 - C#\Projects\Proj 4 - methods mini-game\obj\Debug\net8.0\Proj 4 - methods mini-game.AssemblyInfo.cs
+E:\FreeCodeCamp\8 - C#\Projects\Proj 4 - methods mini-game\obj\Debug\net8.0\Proj 4 - methods mini-game.csproj.CoreCompileInputs.cache
+E:\FreeCodeCamp\8 - C#\Projects\Proj 4 - methods mini-game\obj\Debug\net8.0\Proj 4 - methods mini-game.sourcelink.json
+E:\FreeCodeCamp\8 - C#\Projects\Proj 4 - methods mini-game\bin\Debug\net8.0\Proj 4 - methods mini-game.exe
+E:\FreeCodeCamp\8 - C#\Projects\Proj 4 - methods mini-game\bin\Debug\net8.0\Proj 4 - methods mini-game.deps.json
+E:\FreeCodeCamp\8 - C#\Projects\Proj 4 - methods mini-game\bin\Debug\net8.0\Proj 4 - methods mini-game.runtimeconfig.json
+E:\FreeCodeCamp\8 - C#\Projects\Proj 4 - methods mini-game\bin\Debug\net8.0\Proj 4 - methods mini-game.dll
+E:\FreeCodeCamp\8 - C#\Projects\Proj 4 - methods mini-game\bin\Debug\net8.0\Proj 4 - methods mini-game.pdb
+E:\FreeCodeCamp\8 - C#\Projects\Proj 4 - methods mini-game\obj\Debug\net8.0\Proj 4 - methods mini-game.dll
+E:\FreeCodeCamp\8 - C#\Projects\Proj 4 - methods mini-game\obj\Debug\net8.0\refint\Proj 4 - methods mini-game.dll
+E:\FreeCodeCamp\8 - C#\Projects\Proj 4 - methods mini-game\obj\Debug\net8.0\Proj 4 - methods mini-game.pdb
+E:\FreeCodeCamp\8 - C#\Projects\Proj 4 - methods mini-game\obj\Debug\net8.0\Proj 4 - methods mini-game.genruntimeconfig.cache
+E:\FreeCodeCamp\8 - C#\Projects\Proj 4 - methods mini-game\obj\Debug\net8.0\ref\Proj 4 - methods mini-game.dll
