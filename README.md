@@ -13,4 +13,6 @@ Project 2 - branching & looping using switch cases and do-while
 
 Project 3 - data handling, storage, and manipulation
 
+Project 4 - methods and return values usage
+
 to be continued....
