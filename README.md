@@ -7,12 +7,12 @@
 A list of all the Challenge projects available in the certification course
 
 #### Table of Contents:
-Project 1 - fixing array structures using foreach & if-elseif-else 
+Project 1 - Fixing array structures using foreach & if-elseif-else 
 
-Project 2 - branching & looping using switch cases and do-while
+Project 2 - Branching & Looping using switch cases and do-dhile
 
-Project 3 - data handling, storage, and manipulation
+Project 3 - Data handling, Storage, and Manipulation
 
-Project 4 - methods and return values usage
+Project 4 - Methods and Return values usage
 
-to be continued....
+Project 5 - Debugging using exceptions
